@@ -14,7 +14,7 @@ class Main {
             {"Arg", "Arg", "Arg", "Arg",}
         },
         {
-            {"IIe", "IIe", "IIe", "Met"},
+            {"Ile", "Ile", "Ile", "Met"},
             {"Thr", "Thr", "Thr", "Thr"},
             {"Asn", "Asn", "Lys", "Lys"},
             {"Ser", "Ser", "Arg", "Arg"}
